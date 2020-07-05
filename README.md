@@ -17,7 +17,7 @@ The **Matlab M files** corresponding to the case studies are located in the dire
 
 Follow the following steps to run any case study:
 
-  1- boo
-  2- baa
+1. 1
+1. 2
  
 
