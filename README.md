@@ -12,6 +12,12 @@ Open the Matlab file FAUST.m and run it to launch the GUI.
 
 ## Replicating the Results reported in ARCH20
 
+Once you have the GUI of FAUST running, you will be using one of the provided **Matlab M files** to run each reported case study.
+The **Matlab M files** corresponding to the case studies are located in the directory **./-files**
 
+Follow the following steps to run any case study:
 
+  1- boo
+  2- baa
+ 
 
